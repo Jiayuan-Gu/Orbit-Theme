@@ -232,6 +232,10 @@ p {
 .main-wrapper .projects-section .item {
   margin-bottom: 15px;
 }
+.main-wrapper .publications-section .papers-list li{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
 .skillset .item {
   margin-bottom: 15px;
   overflow: hidden;
